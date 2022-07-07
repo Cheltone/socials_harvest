@@ -1,1 +1,1 @@
-# twitter_scraper
+# twitter and reddit data scarpers
